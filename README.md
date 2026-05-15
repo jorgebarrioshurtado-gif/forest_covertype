@@ -144,6 +144,8 @@ The confusion matrix showed that the model correctly identifies minority cover t
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/zsinghrahulk/covertype-forest-cover-types)
 
+- [Trello](https://trello.com/b/DU6tzsU8/forest-project)
+
 - [Googles Slides](https://docs.google.com/presentation/d/1205rHM5hQ96E4N8c5VLgZePFl1BShwRYR3Wbl9Nuzjk/edit?usp=sharing)
 
 ---
